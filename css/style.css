@@ -13,7 +13,7 @@ body {
 
 header img{
     align-content: center;
-    margin-left: 230px;
+    margin-left: 250px;
     margin-top: 250px;
 }
 
@@ -79,7 +79,6 @@ nav img:hover{
     color: aliceblue;
     min-height: auto;
 }
-
 
 main{
     background-color: #D8DDD7;
